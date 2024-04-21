@@ -1,6 +1,6 @@
 ### Introduction 👋
 
-Hi there! I'm **Michael Zietz**. I'm a data scientist and genetics researcher, focused on developing new statistical and machine learnings methods with applications in healthcare and biomedicine. 🧬 I'm currently finishing my PhD in Biomedical Informatics at [Columbia University DBMI](https://www.dbmi.columbia.edu/), working with [Nick Tatonetti](https://tatonettilab.org/). 🌃 Before that, I studied Physics at Penn, where did research on heterogeneous networks in the [Greene Lab](https://greenelab.com/). 🕸️ I'm interested in methods development, reproducible research, and accelerating the pace of scientific progress on complex diseases. 🏥
+Hi there! I'm **Michael Zietz**. I'm a data scientist and genetics researcher, focused on developing new statistical and machine learnings methods with applications in healthcare and biomedicine. 🧬 I'm currently finishing my PhD in Biomedical Informatics at [Columbia University DBMI](https://www.dbmi.columbia.edu/), working with [Nick Tatonetti](https://tatonettilab.org/). 🌃 Before that, I studied Physics at [Penn](https://www.upenn.edu/), where did research on heterogeneous networks in the [Greene Lab](https://greenelab.com/). 🕸️ I'm interested in methods development, reproducible research, and accelerating the pace of scientific progress on complex diseases. 🏥
 
 ### 💡 Some projects
 
