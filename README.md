@@ -5,7 +5,7 @@ Hi there! I'm **Michael Zietz**. I'm a data scientist and genetics researcher, f
 ### 💡 Some projects
 
 - [**Indirect GWAS**](https://github.com/zietzm/igwas): Fast GWAS on linear combinations of traits ([analysis](https://github.com/tatonetti-lab/indirect-gwas-analysis), [preprint](https://doi.org/10.1101/2023.11.20.567948))
-- [**MaxGCP**](https://github.com/tatonetti-lab/maxgcp): Optimal genetic phenotyping for complex disease research ([analysis](https://github.com/tatonetti-lab/maxgcp-analysis))
+- [**MaxGCP**](https://github.com/tatonetti-lab/maxgcp): Optimal phenotyping for research in complex disease genetics ([analysis](https://github.com/tatonetti-lab/maxgcp-analysis))
 - [**COVID Blood type**](https://doi.org/10.1038/s41467-020-19623-x): Study of the relationship between ABO type and COVID-19 ([analysis](https://github.com/zietzm/abo_covid_analysis), [paper](https://doi.org/10.1038/s41467-020-19623-x), [New York Times](https://www.nytimes.com/2020/07/15/science/coronavirus-blood-type.html))
 - [**XSwap**](https://github.com/hetio/xswap): A fast implementation of degree-preserving network randomization ([analysis](https://github.com/greenelab/xswap-analysis), [paper](https://doi.org/10.1093/gigascience/giae001))
 
