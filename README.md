@@ -1,6 +1,6 @@
 ### Introduction 👋
 
-Hi there! I'm **Michael Zietz**. I'm a data scientist and genetics researcher, focused on developing new statistical and machine learnings methods with applications in healthcare and biomedicine. 🧬 I'm currently finishing my PhD in Biomedical Informatics at [Columbia University DBMI](https://www.dbmi.columbia.edu/), working with [Nick Tatonetti](https://tatonettilab.org/). 🌃 Before that, I studied Physics at [Penn](https://www.upenn.edu/), where did research on heterogeneous networks in the [Greene Lab](https://greenelab.com/). 🕸️ I'm interested in methods development, reproducible research, and accelerating the pace of scientific progress on complex diseases. 🏥
+Hi there! I'm **Michael Zietz**. I'm a data scientist and genetics researcher, focused on developing new statistical and machine learnings methods with applications in healthcare and biomedicine. 🧬 I'm currently a Research Data Scientist at [Cedars-Sinai Computational Biomedicine](https://www.cedars-sinai.edu/research-education/research/departments-institutes/computational-biomedicine.html). Previously, I did my PhD at [Columbia University DBMI](https://www.dbmi.columbia.edu/) and studied Physics at [Penn](https://www.upenn.edu/), where I did research on heterogeneous networks in the [Greene Lab](https://greenelab.com/). 🕸️ I'm interested in methods development, reproducible research, and accelerating the pace of scientific progress on complex diseases. 🏥
 
 ### 💡 Some projects
 
@@ -15,3 +15,5 @@ Hi there! I'm **Michael Zietz**. I'm a data scientist and genetics researcher, f
 - [**sumher_rs**](https://github.com/zietzm/sumher_rs): Efficiently estimating a genetic covariance matrix using SumHer ([code](https://github.com/zietzm/sumher_rs))
 - [**pymbend**](https://github.com/zietzm/pymbend): Bending matrices to be positive semi-definite ([code](https://github.com/zietzm/pymbend))
 - [**Micromanubot**](https://github.com/zietzm/micromanubot): A user-friendly build tool for academic preprints in LaTeX ([code](https://github.com/zietzm/micromanubot))
+- [**clock**](https://github.com/zietzm/clock): Dead-simple time tracking tool (`clock in work`, `clock out`) ([code](https://github.com/zietzm/clock))
+- [**annotate**](https://github.com/zietzm/annotate): Terminal user interface for text annotation ([code](https://github.com/zietzm/annotate))
