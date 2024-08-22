@@ -13,8 +13,8 @@ Hi there! I'm **Michael Zietz**. I'm a data scientist and genetics researcher, f
 ### Other tools 🔨
 
 - [**sumher_rs**](https://github.com/zietzm/sumher_rs): Efficiently estimating a genetic covariance matrix using SumHer ([code](https://github.com/zietzm/sumher_rs))
+- [**mdav**](https://github.com/zietzm/mdav): Data anonymization tool implementing maximum distance to the average vector (MDAV) anonymization ([code](https://github.com/zietzm/mdav))
 - [**pymbend**](https://github.com/zietzm/pymbend): Bending matrices to be positive semi-definite ([code](https://github.com/zietzm/pymbend))
 - [**Micromanubot**](https://github.com/zietzm/micromanubot): A user-friendly build tool for academic preprints in LaTeX ([code](https://github.com/zietzm/micromanubot))
 - [**clock**](https://github.com/zietzm/clock): Dead-simple time tracking tool (`clock in work`, `clock out`) ([code](https://github.com/zietzm/clock))
 - [**annotate**](https://github.com/zietzm/annotate): Terminal user interface for text annotation ([code](https://github.com/zietzm/annotate))
-- [**mdav**](https://github.com/zietzm/mdav): Data anonymization tool implementing maximum distance to the average vector (MDAV) anonymization ([code](https://github.com/zietzm/mdav))
