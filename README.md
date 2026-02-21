@@ -1,6 +1,6 @@
 ## Introduction 👋
 
-Hi there! I'm **Michael Zietz**. I'm a data scientist and genetics researcher, focused on developing new statistical and machine learnings methods with applications in healthcare and biomedicine. 🧬 I'm currently a Research Data Scientist at [Cedars-Sinai Computational Biomedicine](https://www.cedars-sinai.edu/research-education/research/departments-institutes/computational-biomedicine.html). Previously, I did my PhD at [Columbia University DBMI](https://www.dbmi.columbia.edu/) and studied Physics at [Penn](https://www.upenn.edu/), where I did research on heterogeneous networks in the [Greene Lab](https://greenelab.com/). 🕸️ I'm interested in methods development, reproducible research, and accelerating the pace of scientific progress on complex diseases. 🏥
+Hi there! I'm **Michael Zietz**. I'm a software engineer on the Electromagnetic Warfare team at [Anduril](https://www.anduril.com/), where I build performant and reliable systems in Haskell. Previously, I was a Research Data Scientist at [Cedars-Sinai Computational Biomedicine](https://www.cedars-sinai.edu/research-education/research/departments-institutes/computational-biomedicine.html), completed my PhD at [Columbia University DBMI](https://www.dbmi.columbia.edu/), and studied Physics at [Penn](https://www.upenn.edu/). I care about rigorous methods, clear engineering, and shipping work that matters.
 
 ## 💡 Some projects
 
